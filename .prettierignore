@@ -1,0 +1,12 @@
+.DS_Store
+.editorconfig
+.git
+.gitignore
+.prettierignore
+.eslintrc.json
+documentation
+next.config.json
+tsconfig.json
+next-env.d.ts
+yarn.lock
+README.md
