@@ -1,0 +1,21 @@
+.form_container {
+  width: 100vw;
+  height: 500px;
+  background-color: white;
+  color: black;
+  border-radius: 8px;
+  padding: 8px;
+  min-height: 80vh;
+}
+
+@media screen and (min-width: 568px) {
+  .form_container {
+    width: 90vw;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .form_container {
+    width: max-content;
+  }
+}
